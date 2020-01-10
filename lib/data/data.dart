@@ -118,7 +118,7 @@ List<String> departmentList = [
 
 List<String> yearList = ["Choose your year", "1", "2", "3", "4", "5", "6"];
 List<String> workList = [
- "Area of interest",
+  "Area of interest",
   "Art",
   "Content Writing",
   "Video Editing",
@@ -126,7 +126,7 @@ List<String> workList = [
   "Web Development",
   "App Development",
   "Graffiti",
-  "Photogeaphy",
+  "Photography",
   "Videography",
   "Emcee",
   "Poster Making",
